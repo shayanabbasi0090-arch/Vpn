@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sentinel VPN</string>
+    <string name="vpn_channel_name">VPN Tunnel Status</string>
+    <string name="vpn_channel_description">Shows active encrypted VPN connection status, speed, and duration</string>
+    <string name="vpn_notif_title_connected">Sentinel VPN Connected</string>
+    <string name="vpn_notif_title_connecting">Connecting to Sentinel VPN…</string>
+    <string name="vpn_notif_title_reconnecting">Switching to Faster Server…</string>
+    <string name="vpn_action_disconnect">Disconnect</string>
+    <string name="vpn_action_switch">Fast Switch</string>
+    <string name="cd_app_logo">Sentinel VPN Shield Logo</string>
+    <string name="cd_connect_button">Toggle VPN Connection</string>
+    <string name="cd_refresh_servers">Refresh Server List and Live Ping</string>
+    <string name="cd_search_servers">Search Countries or Cities</string>
+    <string name="cd_clear_search">Clear Search</string>
+    <string name="cd_auto_connect_card">Smart Auto-Connect Fastest Server</string>
+    <string name="cd_settings_nav">Tunnel Settings</string>
+    <string name="cd_shield_nav">VPN Shield</string>
+    <string name="cd_servers_nav">Server Locations</string>
+</resources>
